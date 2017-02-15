@@ -7,6 +7,7 @@ title: Digital Projects Studio
 
 # Welcome to the Digital Projects Studio's Github Page
 
+The Digital Projects Studio is part of the University of Michigan's Clark Library and provides tutorials and support for visualization work. Connect to our workshops and projects below, and to our blog an additional information [here](https://digitalprojectstudio.wordpress.com/).
 
 ## Workshops
 
