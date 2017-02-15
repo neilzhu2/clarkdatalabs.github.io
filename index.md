@@ -5,15 +5,16 @@ title: Digital Projects Studio
 {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
 {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
 
-Welcome to the Digital Projects Studio's Github Page
+# Welcome to the Digital Projects Studio's Github Page
 
-Workshops
+
+## Workshops
 
 {% for repository in workshop %}
  * [{{ repository }}](http://clarkdatalabs.github.io/{{ repository }})
 {% endfor %}
 
-Projects
+## Projects
 
 {% for repository in site.github.public_repositories %}
  {% unless skip contains repository.name or workshop contains repository.name%}
