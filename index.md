@@ -11,7 +11,7 @@ Welcome to the Digital Projects Studio's Github Page
  {% endunless %}
 {% endfor %}
 
-## Workshops
+Workshops
 
 {% for repository in workshop %}
  * [{{ repository }}](http://clarkdatalabs.github.io/{{ repository }})
