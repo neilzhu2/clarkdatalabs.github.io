@@ -1,5 +1,6 @@
 ---
 title: Digital Projects Studio
+theme: jekyll-theme-midnight
 ---
 
 {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
