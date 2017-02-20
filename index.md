@@ -1,6 +1,5 @@
 ---
-layout: minimal
-theme: jekyll-theme-midnight
+layout: page
 title: Digital Projects Studio
 ---
 
