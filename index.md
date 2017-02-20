@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: midnight
 title: Digital Projects Studio
 ---
 {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
