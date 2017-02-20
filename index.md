@@ -3,6 +3,8 @@ layout: minimal
 theme: jekyll-theme-midnight
 title: Digital Projects Studio
 ---
+@import "{{ site.theme }}";
+
 {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
 {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
 
