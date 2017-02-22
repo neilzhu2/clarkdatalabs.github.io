@@ -24,8 +24,8 @@ layout: default
                   <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
                   {% endif %}
                  
-                  <div class="panel-body"><small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
+                  <div class="panel-body">
+                    <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
                   </div>
                  
@@ -37,7 +37,6 @@ layout: default
      <hr>
      <h2>Projects</h2>
      
-     <div class="row pack">
      {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
      {% for repository in site.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name%}
@@ -66,7 +65,7 @@ layout: default
           {% endunless %}
           {% endfor %}
      
-       </div> 
+  </div> 
     
 <div class="row">
     <div class="col-md-4">  </div>
