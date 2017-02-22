@@ -11,8 +11,7 @@ email: libvisualization@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   List past and ongoing projects of the Digital Processing Studio at the University of Michigan.
   
-
-# baseurl: "/cards" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://clarkdatalabs.github.io" # the base hostname & protocol for your site
 
 #sidebar
