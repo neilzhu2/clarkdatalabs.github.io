@@ -5,16 +5,15 @@ layout: default
 <div class="home">
  
   {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
-  {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
-
+  
     <div class="row pack">
-
+        {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
         {% for repository in workshop %}   
             <div class="col-md-4 card">
                  
                 <div class="panel panel-default">
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ repository_name | truncate: 25 }}</h3>
+                    <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
             
                   </div>
                   {% if post.img %}
@@ -38,7 +37,7 @@ layout: default
                  
                 <div class="panel panel-default">
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ repository_name | truncate: 25 }}</h3>
+                    <h3 class="panel-title pull-left">{{ repositor.name | truncate: 25 }}</h3>
             
                   </div>
                   {% if post.img %}
