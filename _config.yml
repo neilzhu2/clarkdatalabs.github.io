@@ -1,1 +1,5 @@
+# Site settings
+title: Clark Data Labs 
+description: Links to all Clark Data Labs projects and workshops.
+url: "https://clarkdatalabs.github.io" 
 theme: jekyll-theme-midnight
