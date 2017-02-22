@@ -6,6 +6,8 @@ layout: default
  
   {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
   
+   <h2>Workshops</h2>
+ 
     <div class="row pack">
         {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
         {% for repository in workshop %}   
@@ -31,6 +33,8 @@ layout: default
         
           {% endfor %}
 
+     <h2>Projects</h2>
+     
      {% for repository in site.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name%}
             <div class="col-md-4 card">
