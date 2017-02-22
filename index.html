@@ -10,14 +10,16 @@ layout: default
  
     <div class="row pack">
         {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
-        {% for repository in workshop %}   
-            <div class="col-md-4 card">
+        {% for repository in workshop %}  
+     
+           <div class="col-md-4 card">
                  
-                <div class="panel panel-default">
+               <div class="panel panel-default">
+                 
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
-            
                   </div>
+                 
                   {% if post.img %}
                   <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
@@ -28,6 +30,7 @@ layout: default
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
                     <a href="{{ repository }}](http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
                   </div>
+                 
                 </div>
             </div>
         
@@ -35,15 +38,17 @@ layout: default
 
      <h2>Projects</h2>
      
+     <div class="row pack">
      {% for repository in site.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name%}
             <div class="col-md-4 card">
                  
-                <div class="panel panel-default">
+               <div class="panel panel-default">
+                 
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ repositor.name | truncate: 25 }}</h3>
-            
+                    <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
                   </div>
+                 
                   {% if post.img %}
                   <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
@@ -54,11 +59,14 @@ layout: default
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
                     <a href="{{ repository }}](http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
                   </div>
-                </div>
+                 
+               </div>
+             
             </div>
           {% endunless %}
           {% endfor %}
-    </div> 
+     
+       </div> 
     
 <div class="row">
     <div class="col-md-4">  </div>
