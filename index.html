@@ -25,13 +25,36 @@ layout: default
                  
                   <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
-                    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
+                    <a href="{{ repository }}](http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
                   </div>
                 </div>
             </div>
         
           {% endfor %}
 
+     {% for repository in site.github.public_repositories %}
+     {% unless skip contains repository.name or workshop contains repository.name%}
+            <div class="col-md-4 card">
+                 
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <h3 class="panel-title pull-left">{{ repository_name | truncate: 25 }}</h3>
+            
+                  </div>
+                  {% if post.img %}
+                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  {% else %}
+                  <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                  {% endif %}
+                 
+                  <div class="panel-body"><small>
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
+                    <a href="{{ repository }}](http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
+                  </div>
+                </div>
+            </div>
+          {% endunless %}
+          {% endfor %}
     </div> 
     
 <div class="row">
