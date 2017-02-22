@@ -33,10 +33,12 @@ layout: default
             </div>
         
           {% endfor %}
+      </div>
      
      <hr>
      <h2>Projects</h2>
-     
+  
+     <div class="row pack">
      {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
      {% for repository in site.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name%}
@@ -65,7 +67,7 @@ layout: default
           {% endunless %}
           {% endfor %}
      
-  </div> 
+     </div> 
     
 <div class="row">
     <div class="col-md-4">  </div>
