@@ -48,7 +48,7 @@ layout: default
      
      {% for repository in site.github.public_repositories %}
         {{repository.name}}
-     {% unless skip contains repository.name or workshop contains repository.name%}
+     {% unless skip contains repository.name or workshop contains repository.name %}
             <div class="col-md-4 card">
                  
                <div class="panel panel-default">
