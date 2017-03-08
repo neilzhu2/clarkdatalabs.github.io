@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
 
-title: {{site.github.project_title}}
+title: {{site.project_title}}
 
 <div class="mt50"></div>
 
