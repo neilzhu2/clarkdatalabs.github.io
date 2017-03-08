@@ -4,16 +4,16 @@ layout: default
 
 <div class="home">
    
-   <p>The Digital Projects Studio is part of University of Michigan's Clark Library. We 
+   <p>The Digital Projects Studio is part of the University of Michigan's Clark Library. We 
      provide tutorials and support for visualization work. Connect to our workshops and projects
      below, or peruse our <a href="https://digitalprojectstudio.wordpress.com/">blog</a> for additional information.</p>  
   
    <h2>Workshops</h2>
  
     <div class="row pack">
-        {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
-        {% for repository in workshop %}  
-     
+       {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
+        
+       {% for repository in workshop %}  
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
@@ -34,9 +34,10 @@ layout: default
                   </div>
                  
                 </div>
+              
             </div>
-        
-          {% endfor %}
+         {% endfor %}
+       
       </div>
      
      <hr>
@@ -44,7 +45,8 @@ layout: default
   
      <div class="row pack">
      {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
-     {% for repository in site.github.public_repositories %}
+     
+     {% for repository in clarkdatalabs.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name%}
             <div class="col-md-4 card">
                  
@@ -68,8 +70,8 @@ layout: default
                </div>
              
             </div>
-          {% endunless %}
-          {% endfor %}
+       {% endunless %}
+       {% endfor %}
      
      </div> 
     
