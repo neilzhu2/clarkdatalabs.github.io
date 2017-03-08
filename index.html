@@ -45,9 +45,10 @@ layout: default
   
      <div class="row pack">
      {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
+        <p>repos:
      {% for repository in site.github.public_repositories %}
  {{ repository.name }}
- {% endfor %}
+           {% endfor %}</p>
      {% for repository in site.github.public_repositories %}
      {% unless skip contains repository.name or workshop contains repository.name %}
             <div class="col-md-4 card">
