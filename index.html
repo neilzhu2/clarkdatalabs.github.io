@@ -44,18 +44,11 @@ layout: default
      <h2>Projects</h2>
   
      <div class="row pack">
+     {% assign projects = "typsetting|soms" | split: '|'  %}   
      
-        {% for repository in site.github.public_repositories %}
-            {% unless skip contains repository.name or workshop contains repository.name%}
-            * [{{ repository.name }}](http://clarkdatalabs.github.io/{{ repository.name }})
-         {% endunless %}
-         {% endfor %}
-       
+        <p>testing</p>
         
-     {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
-        <p>host2name: {{ site.github.hostname }} * [{{ repository.name }}](http://clarkdatalabs.github.io/{{ repository.name }})</p>
-     {% for repository in site.github.public_repositories %}
-     {% unless skip contains repository.name or workshop contains repository.name %}
+     {% for repository in projects %}
             <div class="col-md-4 card">
                  
                <div class="panel panel-default">
