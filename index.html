@@ -44,9 +44,13 @@ layout: default
      <h2>Projects</h2>
   
      <div class="row pack">
-     {% for repository in site.github.public_repositories %}
-         * [{{ repository.name }}]({{ repository.html_url }})
-     {% endfor %}
+     
+        {% for repository in site.github.public_repositories %}
+            {% unless skip contains repository.name or workshop contains repository.name%}
+            * [{{ repository.name }}](http://clarkdatalabs.github.io/{{ repository.name }})
+         {% endunless %}
+         {% endfor %}
+       
         
      {% assign skip = "debate_analysis|clarkdatalabs.github.io" | split: '|'  %}
         <p>hostname: {{ site.github.hostname }}</p>
