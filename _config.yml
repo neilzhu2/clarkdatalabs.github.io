@@ -8,6 +8,7 @@
 # Site settings
 title: Digital Projects Studio
 email: libvisualization@umich.edu 
+repository: clarkdatalabs/clarkdatalabs.github.io
 description: > # this means to ignore newlines until "baseurl:"
   List past and ongoing projects of the Digital Processing Studio at the University of Michigan.
   
