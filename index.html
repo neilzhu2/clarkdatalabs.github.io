@@ -44,9 +44,7 @@ layout: default
      <h2>Projects</h2>
   
      <div class="row pack">
-     {% assign projects = "typsetting|soms" | split: '|'  %}   
-     
-        <p>testing</p>
+     {% assign projects = "arc_gis|crawling_noise|csv_map|debate_analysis|django_field_notebook|dotmap_workshop|Lidar_classification|network_study|soms|techandtexts|textmining|typsetting" | split: '|'  %}   
         
      {% for repository in projects %}
             <div class="col-md-4 card">
@@ -65,13 +63,12 @@ layout: default
                  
                   <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
-                    <a href="http://clarkdatalabs.github.io/{{ repository.name }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
+                    <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">Read</a>
                   </div>
                  
                </div>
              
             </div>
-       
        {% endfor %}
      
      </div> 
