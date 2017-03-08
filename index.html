@@ -19,13 +19,13 @@ layout: default
                <div class="panel panel-default">
                  
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ repository | truncate: 25 }}</h3>
+                    <h3 class="panel-title pull-left">{{ repository }}</h3>
                   </div>
                  
                   {% if post.img %}
                   <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
-                  <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                  <img width="100%" src="{{site.baseurl}}/images/2013_ClarkPictureGrid.jpg" alt="{{site.title}}">
                   {% endif %}
                  
                   <div class="panel-body">
