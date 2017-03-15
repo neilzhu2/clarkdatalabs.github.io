@@ -11,7 +11,7 @@ layout: default
    <h2>Workshops</h2>
  
     <div class="row pack" style="display: block">
-       {% assign workshop = "mapping_R|datavis_r" | split: '|'  %}
+       {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
        {% for repository in workshop %}  
            <div class="col-md-4 card">
@@ -44,7 +44,7 @@ layout: default
      <h2>Projects</h2>
   
      <div class="row pack">
-     {% assign projects = "arc_gis|crawling_noise|csv_map|debate_analysis|django_field_notebook|dotmap_workshop|Lidar_classification|network_study|soms|techandtexts|textmining|typesetting" | split: '|'  %}   
+     {% assign projects = "arc_gis|crawling_noise|csv_map|debate_analysis|django_field_notebook|dotmap_workshop|Lidar_classification|network_study|soms|textmining|typesetting" | split: '|'  %}   
         
      {% for repository in projects %}
             <div class="col-md-4 card">
