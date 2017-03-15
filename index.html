@@ -22,11 +22,11 @@ layout: default
                     <h3 class="panel-title pull-left">{{ repository | truncate: 25 }}</h3>
                   </div>
                  
-                  {% if thumbnail.png %}
+                  <!--{% if thumbnail.png %}-->
                   <img width="100%" src="{{site.baseurl}}/{{ repository }}/thumbnail.png" alt="{{post.title}}">
-                  {% else %}
+                  <!--{% else %}
                   <img width="100%" src="{{site.baseurl}}/images/2013_ClarkPictureGrid2.jpg" alt="{{site.title}}">
-                  {% endif %}
+                  {% endif %}-->
                  
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
