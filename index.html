@@ -13,7 +13,8 @@ projects:
    <p>The Digital Projects Studio is part of the University of Michigan's Clark Library. We 
      provide tutorials and support for visualization work. Connect to our workshops and projects
      below, or peruse our <a href="https://digitalprojectstudio.wordpress.com/">blog</a> for additional information.</p>  
-  {% for project in page.projects %}
+ Projects: 
+ {% for project in page.projects %}
    {{project.name}}:{{project.description}}<br/>
   {% endfor %}
    <h2>Workshops</h2>
