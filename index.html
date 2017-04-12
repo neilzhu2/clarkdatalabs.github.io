@@ -46,14 +46,10 @@ projects:
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
-                    Projects: 
- {% for project in page.projects %}
-   {{project.name}}:{{project.description}}<br/>
-  {% endfor %}
-                     Workshops: 
                          {% for repository in page.workshops %}
                               {{repository.description}}<br/>
                          {% endfor %}
+                   
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
