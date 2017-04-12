@@ -43,6 +43,10 @@ projects:
                      <a href="http://clarkdatalabs.github.io/{{ repository }}">
                         <img width="100%" src="https://clarkdatalabs.github.io/{{ repository }}/images/thumbnail.png" alt="{{post.title}}">
                      </a>
+                
+                     {% if project.name == repository %}
+                          {{project.name}}:{{project.description}}<br/>
+                     {% endif %}
                   
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
