@@ -1,10 +1,9 @@
 ---
 layout: default
 
-mapping_r:
- - description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
-
-datavis_r:
+Workshops:
+ - repository: mapping_r
+   description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
 - name: dataviz_r
    description: An introductory workshop to data visualization using R.
  - name: techandtexts
@@ -21,6 +20,7 @@ projects:
    <p>The Digital Projects Studio is part of the University of Michigan's Clark Library. We 
      provide tutorials and support for visualization work. Connect to our workshops and projects
      below, or peruse our <a href="https://digitalprojectstudio.wordpress.com/">blog</a> for additional information.</p>  
+ 
  Projects: 
  {% for project in page.projects %}
    {{project.name}}:{{project.description}}<br/>
@@ -47,8 +47,8 @@ projects:
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
-                         {% for repository in page.repository %}
-                              {{repository.description}}<br/>
+                         {% for repository in page.workshops %}
+                              {{workshop.description}}<br/>
                          {% endfor %}
                    
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
