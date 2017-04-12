@@ -2,9 +2,9 @@
 layout: default
 
 Workshops:
- - repository: mapping_r
+ - name: mapping_r
    description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
-- name: dataviz_r
+ - name: dataviz_r
    description: An introductory workshop to data visualization using R.
  - name: techandtexts
    description: An open seminar/workshop hosted by the University of Michigan Library to explore the technology and theory behind data visualization. 
@@ -47,7 +47,7 @@ projects:
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
-                         {% for repository in page.workshops %}
+                         {% if repository == workshop.name in page.workshops %}
                               {{workshop.description}}<br/>
                          {% endfor %}
                    
