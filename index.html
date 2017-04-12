@@ -1,11 +1,18 @@
 ---
 layout: default
 
+workshops: 
+ - name: mapping_r
+   description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
+ - name: dataviz_r
+   description: An introductory workshop to data visualization using R.
+ - name: techandtexts
+   description: An open seminar/workshop hosted by the University of Michigan Library to explore the technology and theory behind data visualization. 
+
 projects:
  - name: mapping_r
    description: a workshop about mapping in r
- - name: dataviz_r
-   description: a workshop about r
+
 ---
 
 <div class="home">
@@ -17,6 +24,7 @@ projects:
  {% for project in page.projects %}
    {{project.name}}:{{project.description}}<br/>
   {% endfor %}
+ 
    <h2>Workshops</h2>
  
     <div class="row pack" style="display: block">
@@ -37,7 +45,10 @@ projects:
                   
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>                    
-                  
+                     Workshops: 
+                         {% for workshop in page.workshops %}
+                              {{workshop.name}}:{{workshop.description}}<br/>
+                         {% endfor %}
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
