@@ -3,7 +3,7 @@ layout: default
 
 workshop:
  - name: mapping_r
-   description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
+   - description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
  - name: dataviz_r
    description: An introductory workshop to data visualization using R.
  - name: techandtexts
@@ -58,7 +58,7 @@ projects:
        {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
        {% for repository in workshop %}  
-           {% assign  %}
+         {% for post in site.posts %}
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
@@ -74,10 +74,7 @@ projects:
                 
                   <div class="panel-body">
                     
-                    Workshops: 
-                    {% for workshop in page.workshops %}
-                        {{workshop.name}}:{{workshop.description}}<br/>
-                    {% endfor %}
+                  
                    
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
@@ -88,6 +85,7 @@ projects:
               
             </div>
          {% endfor %}
+       {% endfor %}
        
       </div>
      
