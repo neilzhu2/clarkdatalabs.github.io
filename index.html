@@ -1,7 +1,7 @@
 ---
 layout: default
 
-workshops:
+workshop:
  - name: mapping_r
    description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
  - name: dataviz_r
@@ -74,13 +74,11 @@ projects:
                 
                   <div class="panel-body">
                     
-                   
-                   {% for post in site.posts %}
-                    
-                        <p class="description">{{ post.introduction }}</p>
-                        {{ post.excerpt }}
-                   
+                    Workshops: 
+                    {% for workshop in page.workshops %}
+                        {{workshop.name}}:{{workshop.description}}:{{repository.description}}<br/>
                     {% endfor %}
+                   
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
