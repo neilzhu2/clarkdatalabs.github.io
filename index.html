@@ -76,10 +76,10 @@ projects:
                     
                    
                    {% for post in site.posts %}
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    
                         <p class="description">{{ post.introduction }}</p>
-                    </a>
-                          {{ post.excerpt }}
+                        {{ post.excerpt }}
+                   
                     {% endfor %}
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
