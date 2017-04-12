@@ -58,7 +58,6 @@ projects:
        {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
        {% for repository in workshop %}  
-         {% for post in site.posts %}
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
@@ -72,9 +71,11 @@ projects:
                      </a>
                
                 
-                  <div class="panel-body">
+                  <div class="box-body">
                     
-                  
+                    <a class="post-link">
+                        <p class="description">{{ post.introduction }}</p>
+                    </a>
                    
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
@@ -84,7 +85,7 @@ projects:
                 </div>
               
             </div>
-         {% endfor %}
+     
        {% endfor %}
        
       </div>
