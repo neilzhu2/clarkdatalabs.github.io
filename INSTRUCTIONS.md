@@ -11,8 +11,10 @@ In the line starting with '{% assign...' (under 'div class="row pack'), type new
 
 Select desired image to be displayed on website; should be a .png file.  
 Re-size image to be 350px by 262.5px (width x height).    
+
 > Can use ThumbnailSizingTemplate.ai file for re-sizing.   
-> Re-size image to artboard and save by going to File > Save as Web...    
+> Re-size image to artboard and save by going to File > Save as Web... 
+
 Make sure re-sized image is named "thumbnail.png"    
 Create folder titled "images" in gh-pages branch of new repo, and upload thumbnail.png file into it.  
       
