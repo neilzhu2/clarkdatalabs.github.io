@@ -47,10 +47,6 @@ projects:
                   <div class="panel-body">
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
-                         {% if repository == workshop.name in page.workshops %}
-                              {{workshop.description}}<br/>
-                         {% endfor %}
-                   
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
