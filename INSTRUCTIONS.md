@@ -3,8 +3,8 @@
 ## 1. Creating a new repository panel
 
 Go to index.html file in clarkdatalabs.github.io repo.  
-Find either Workshops or Projects section (listed with <h2> tag), as appropriate.  
-In the line starting with "{% assign..." (under "<div class="row pack">"), type new repo name into list.   
+Find either Workshops or Projects section (listed with 'h2' tag), as appropriate.  
+In the line starting with '{% assign...' (under 'div class="row pack'), type new repo name into list.   
 *Keep repo lists in alphabetical order so that repos are easy to find.*  
 
 ## 2. Adding an image to repository's panel  
