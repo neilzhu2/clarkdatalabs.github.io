@@ -32,6 +32,7 @@ projects:
        {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
        {% for repository in workshop %}  
+           {% assign  %}
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
@@ -44,11 +45,12 @@ projects:
                         <img width="100%" src="https://clarkdatalabs.github.io/{{ repository }}/images/thumbnail.png" alt="{{post.title}}">
                      </a>
                 
-                     {% if repository == project.name in page.projects%}
-                          {{project.name}}:{{project.description}}<br/>
+                     {% if repository == workshop.name in page.workshops%}
+                          {{workshop.name}}:{{workshop.description}}<br/>
                      {% endif %}
-                  
+                
                   <div class="panel-body">
+                    {{ post.excerpt }}
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
                    
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
