@@ -71,14 +71,15 @@ projects:
                      </a>
                
                 
-                  <div class="box-body">
+                  <div class="panel-body">
                     
+                    {% for post in https://clarkdatalabs.github.io/{{ repository }}%}
                     <a class="post-link">
                         <p class="description">{{ post.introduction }}</p>
                     </a>
                    
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
-                   
+                   {% endfor %}
                     <a href="http://clarkdatalabs.github.io/{{ repository }}" class="btn btn-primary btn-sm pull-right mt10">More</a>
                   </div>
                  
