@@ -76,7 +76,7 @@ projects:
                     
                     Workshops: 
                     {% for workshop in page.workshops %}
-                        {{workshop.name}}:{{workshop.description}}:{{repository.description}}<br/>
+                        {{workshop.name}}:{{workshop.description}}<br/>
                     {% endfor %}
                    
                     <small> {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>  
