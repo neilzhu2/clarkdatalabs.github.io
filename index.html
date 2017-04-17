@@ -1,7 +1,7 @@
 ---
 layout: default
 
--Workshops:
+- workshops:
  - name: mapping_r
    description: This tutorial walks through three examples demonstrating how geospatial data can be manipulated and visualized in R.
  - name: dataviz_r
@@ -9,7 +9,7 @@ layout: default
  - name: techandtexts
    description: An open seminar/workshop hosted by the University of Michigan Library to explore the technology and theory behind data visualization. 
 
-Projects:
+- projects:
  - name: arc_gis
    description: Introductory material to GIS.
  - name: complex_mapping
@@ -57,7 +57,7 @@ Projects:
     <div class="row pack" style="display: block">
        {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
-       {% for repository in page.Workshops %}  
+       {% for repository in page.workshops %}  
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
