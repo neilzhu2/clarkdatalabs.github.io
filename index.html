@@ -57,13 +57,13 @@ Projects:
     <div class="row pack" style="display: block">
        {% assign workshop = "mapping_R|datavis_r|techandtexts" | split: '|'  %}
         
-       {% for repository in workshop %}  
+       {% for repository in page.Workshops %}  
            <div class="col-md-4 card">
                  
                <div class="panel panel-default">
                  
                   <div class="panel-body">
-                     <h3 class="panel-title pull-left">{{ repository | truncate: 25 }}</h3>
+                     <h3 class="panel-title pull-left">{{ repository.name | truncate: 25 }}</h3>
                   </div>
                 
                   <a href="http://clarkdatalabs.github.io/{{ repository }}">
