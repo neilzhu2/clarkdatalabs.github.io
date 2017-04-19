@@ -57,4 +57,4 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Kristen Sheppard 
 
-![](/images/people/KristenSheppard.jpg) **Author.**Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
+![](/images/people/KristenSheppard.jpg) **Author.** Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
