@@ -45,7 +45,7 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Noureen Dharani
 
-![](/images/people/NoureenDharani.jpg) **Author.** Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+![](/images/people/NoureenDharani.png) **Author.** Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
 
 ### Joseph Klein 
 
