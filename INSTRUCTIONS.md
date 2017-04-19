@@ -1,25 +1,18 @@
 # Instructions to Add New Repositories to clarkdatalabs.github.io Website
 
-## 1. Creating a new repository panel
+## 1. Create new repository panel and description
 
 Go to index.html file in clarkdatalabs.github.io repo.  
-Find either Workshops or Projects section (listed with 'h2' tag), as appropriate.  
-In the line starting with jekyll 'assign...' code (under 'div class="row pack"'), type new repo name into list.   
-*Keep repo lists in alphabetical order so that repos are easy to find.*  
+In YAML header, add name and description of repository.
+*Keep repo lists in alphabetical order so that repos are easy to find on the webpage.*  
 
-## 2. Adding an image to repository's panel  
+## 2. Add image to be displayed on repository panel  
 
 Select desired image to be displayed on website; should be a .png file.  
 Re-size image to be 350px by 262.5px (width x height).    
 
-> Can use ThumbnailSizingTemplate.ai file for re-sizing.   
+> Can use Adobe Illustrator file (ThumbnailSizingTemplate.ai) file for image re-sizing. 
 > Re-size image to artboard and save by going to File > Save as Web... 
 
-Make sure re-sized image is named "thumbnail.png"    
-Create folder titled "images" in gh-pages branch of new repo, and upload thumbnail.png file into it.  
-      
-
-## 3. Adding a repo description to panel
-
-[Instruction forthcoming.]
-
+Rename re-sized image to "thumbnail.png"    
+Create folder titled "images" in **gh-pages branch** of new repository, and upload thumbnail.png file into it. 
