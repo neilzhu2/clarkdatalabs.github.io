@@ -10,44 +10,46 @@ We can offer guidance for static, dynamic, and interactive visualizations depend
 
 Our blog serves as a space to share tutorials and troubleshooting for various approaches to digital data visualization. It is also meant to provide unique ideas for data utilization for researchers in a variety of fields. Our team members use existing data sets from various projects around the world to extend their use and/or test the possibilities of particular software to collect and manipulate data. The blog posts narrate the journeys of our researchers through these technologies, their possibilities and challenges.
 
-# Our team: 
+## Our team: 
 
-## Justin Joque – Project Coordinator and Blog Editor
+### Justin Joque – Project Coordinator and Blog Editor
 
 As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
 
 He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on InformationAnalysis and Retrieval and his PhD in Communications at the European Graduate School.
 
-## Junhui Li
+## 2016-2017 Alumni:
 
-## Zoe Saldana
+### Junhui Li
 
-## Maria-Carolina Simao
+### Zoe Saldana
 
-## Daniel Tanner
+### Maria-Carolina Simao
 
-## ALUMNI
+### Daniel Tanner
 
-## Luciana Aenasoaie – Blog Editor
+## 2015-2016 Alumni:
 
-![](images/people/LucianaAenasoaie.jpg) Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+### Luciana Aenasoaie – Blog Editor
 
-## Daina Andries – Author
+![](clarkdatalabs.github.io/images/people/LucianaAenasoaie.jpg) Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
 
-Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
+### Daina Andries – Author
 
-## Noureen Dharani – Author
+![](clarkdatalabs.github.io/images/people/DainaAndries.jpg) Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
 
-Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+### Noureen Dharani – Author
 
-## Joseph Klein – Author
+![](clarkdatalabs.github.io/images/people/NoureenDharani.jpg) Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
 
-Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
+### Joseph Klein – Author
 
-## Bhawana Mishra – Author
+![](clarkdatalabs.github.io/images/people/JosephKlein.jpg) Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
 
-Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
+### Bhawana Mishra – Author
 
-## Kristen Sheppard – Author
+![](clarkdatalabs.github.io/images/people/BhawanaMishra.jpg) Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
 
-Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
+### Kristen Sheppard – Author
+
+![](clarkdatalabs.github.io/images/people/KristenSheppard.jpg) Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
