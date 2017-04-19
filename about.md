@@ -30,7 +30,7 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ## Luciana Aenasoaie – Blog Editor
 
-![](images/people/LucianaAenasoaie.png) Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+![](images/people/LucianaAenasoaie.jpg) Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
 
 ## Daina Andries – Author
 
