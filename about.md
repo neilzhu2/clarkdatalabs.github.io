@@ -15,7 +15,8 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 ### Justin Joque
 #### Project Coordinator and Blog Editor
 
-![](/images/people/JustinJoque.jpg) As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
+![](/images/people/JustinJoque.jpg)
+As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
 
 He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on InformationAnalysis and Retrieval and his PhD in Communications at the European Graduate School.
 
@@ -27,12 +28,14 @@ He received his undergraduate degree from the University of Michigan in History.
 ### Maria-Carolina Simao
 **Author.**
 
-![](/images/people/CarolinaSimao_2.jpg) Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
+![](/images/people/CarolinaSimao_2.jpg)
+Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
 
 ### Daniel Tanner
 **Author.**
 
-![](/images/people/DanTanner_2.jpg) Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
+![](/images/people/DanTanner_2.jpg)
+Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
 
 ### Zoë Wilkinson Saldaña
 **Author.**
@@ -41,24 +44,30 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Luciana Aenasoaie
 
-![](/images/people/LucianaAenasoaie.jpg) **Blog Editor.** Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+![](/images/people/LucianaAenasoaie.jpg)
+**Blog Editor.** Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
 
 ### Daina Andries 
 
-![](/images/people/DainaAndries.jpg) **Author.** Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
+![](/images/people/DainaAndries.jpg)
+**Author.** Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
 
 ### Noureen Dharani
 
-![](/images/people/NoureenDharani.png) **Author.** Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+![](/images/people/NoureenDharani.png)
+**Author.** Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
 
 ### Joseph Klein 
 
-![](/images/people/JosephKlein.jpg) **Author.** Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
+![](/images/people/JosephKlein.jpg)
+**Author.** Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
 
 ### Bhawana Mishra 
 
-![](/images/people/BhawanaMishra.jpg) **Author.** Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
+![](/images/people/BhawanaMishra.jpg)
+**Author.** Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
 
 ### Kristen Sheppard 
 
-![](/images/people/KristenSheppard.jpg) **Author.** Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
+![](/images/people/KristenSheppard.jpg)
+**Author.** Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
