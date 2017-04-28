@@ -24,13 +24,17 @@ He received his undergraduate degree from the University of Michigan in History.
 ### Junhui Li
 **Author.**
 
-### Zoe Saldana
-**Author.**
-
 ### Maria-Carolina Simao
 **Author.**
 
+![](/images/people/JustinJoque.jpg) Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
+
 ### Daniel Tanner
+**Author.**
+
+![](/images/people/JustinJoque.jpg) Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
+
+### Zoë Wilkinson Saldaña
 **Author.**
 
 ## 2015-2016 Interns:
