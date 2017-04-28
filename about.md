@@ -39,6 +39,7 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 
 ### Zoë Wilkinson Saldaña
 **Author.**
+
 ![](/images/people/ZoeWS.jpg)
 Zoë is a Master's student in the School of Information specializing in data analysis and community informatics. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë wants to help organizations better understand their data, utilize data-driven insights to overcome challenges, and share compelling digital narratives with community members.
 
