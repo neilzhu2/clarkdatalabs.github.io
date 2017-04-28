@@ -14,9 +14,7 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 
 ### Justin Joque
 #### Project Coordinator and Blog Editor
-
-![](/images/people/JustinJoque.jpg)
-As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
+<div markdown=1 class="pull-left" style="margin-right:10px">![](/images/people/JustinJoque.jpg)</div>As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
 
 He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on Information Analysis and Retrieval and his PhD in Communications at the European Graduate School.
 
