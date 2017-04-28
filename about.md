@@ -18,7 +18,7 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 ![](/images/people/JustinJoque.jpg)
 As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
 
-He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on InformationAnalysis and Retrieval and his PhD in Communications at the European Graduate School.
+He received his undergraduate degree from the University of Michigan in History. He completed his Master’s of Science of Information at the University of Michigan – School of Information with a focus on Information Analysis and Retrieval and his PhD in Communications at the European Graduate School.
 
 ## 2016-2017 Interns:
 
@@ -39,6 +39,8 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 
 ### Zoë Wilkinson Saldaña
 **Author.**
+![](/images/people/ZoeWS.jpg)
+Zoë is a Master's student in the School of Information specializing in data analysis and community informatics. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë wants to help organizations better understand their data, utilize data-driven insights to overcome challenges, and share compelling digital narratives with community members.
 
 ## 2015-2016 Interns:
 
