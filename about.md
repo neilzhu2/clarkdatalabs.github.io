@@ -30,7 +30,7 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Maria-Carolina Simao
 **Author.**
-<div class='pull-left' margin-right="10px" markdown="1">
+<div class='pull-left' padding="5px" markdown="1">
 ![](/images/people/CarolinaSimao.jpg)
 </div>
 Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
