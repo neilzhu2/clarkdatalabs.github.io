@@ -31,7 +31,7 @@ He received his undergraduate degree from the University of Michigan in History.
 ### Maria-Carolina Simao
 **Author.**
 <div class='media' markdown='1'>
-<div class='media-left' padding='5px' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/CarolinaSimao.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -42,8 +42,8 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 ### Daniel Tanner
 **Author.**
 <div class='media' markdown='1'>
-<div class='media-left' markdown='1'>
-![](/images/people/DanTanner.jpg)
+<div class='pull-left' markdown='1'>
+<img src='/images/people/DanTanner.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
@@ -53,8 +53,8 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 ### Zoë Wilkinson Saldaña
 **Author.**
 <div class='media' markdown='1'>
-<div class='media-left' markdown="1">
-![](/images/people/ZoeWilkinsonSaldana.jpg)
+<div class='pull-left' markdown="1">
+<img src='/images/people/ZoeWilkinsonSaldana.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Zoë is a Master's student in the School of Information specializing in data analysis and community informatics. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë wants to help organizations better understand their data, utilize data-driven insights to overcome challenges, and share compelling digital narratives with community members.
