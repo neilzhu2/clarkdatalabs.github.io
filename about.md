@@ -46,7 +46,7 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 ### Daniel Tanner
 **Author**
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/DanTanner.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -70,7 +70,7 @@ Zoë is a Master's student in the School of Information specializing in data ana
 ### Luciana Aenasoaie
 **Blog Editor** 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/LucianaAenasoaie.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -92,7 +92,7 @@ Daina is a Master’s candidate at the University of Michigan School of Informat
 ### Noureen Dharani
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/NoureenDharani.png' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -114,7 +114,7 @@ Joe is a Master’s candidate at the School of Information focusing on data anal
 ### Bhawana Mishra 
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/BhawanaMishra.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
