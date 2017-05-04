@@ -34,9 +34,11 @@ He received his undergraduate degree from the University of Michigan in History.
 ![](/images/people/CarolinaSimao.jpg)
 </div>
 Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
-<hr >
-<hr >
-<hr >
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 ### Daniel Tanner
 **Author.**
