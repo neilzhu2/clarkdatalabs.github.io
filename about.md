@@ -29,11 +29,11 @@ He received his undergraduate degree from the University of Michigan in History.
 ## 2016-2017 Interns:
 
 ### Junhui Li
-**Author.**
+**Author**
 
 
 ### Maria-Carolina Simao
-**Author.**
+**Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/CarolinaSimao.jpg' class='media-object' markdown = '1'>
@@ -44,7 +44,7 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 </div>
 
 ### Daniel Tanner
-**Author.**
+**Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/DanTanner.jpg' class='media-object' markdown = '1'>
@@ -55,7 +55,7 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 </div>
 
 ### Zoë Wilkinson Saldaña
-**Author.**
+**Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown="1">
 <img src='/images/people/ZoeWilkinsonSaldana.jpg' class='media-object' markdown = '1'>
@@ -68,7 +68,7 @@ Zoë is a Master's student in the School of Information specializing in data ana
 ## 2015-2016 Interns:
 
 ### Luciana Aenasoaie
-**Blog Editor.** 
+**Blog Editor** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/LucianaAenasoaie.jpg' class='media-object' markdown = '1'>
@@ -79,7 +79,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 </div>
 
 ### Daina Andries 
-**Author.**
+**Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/DainaAndries.jpg' class='media-object' markdown = '1'>
@@ -90,7 +90,7 @@ Daina is a Master’s candidate at the University of Michigan School of Informat
 </div>
 
 ### Noureen Dharani
-**Author.** 
+**Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/NoureenDharani.png' class='media-object' markdown = '1'>
@@ -101,7 +101,7 @@ Noureen is a Master’s candidate at the University of Michigan School of Inform
 </div>
 
 ### Joseph Klein 
-**Author.** 
+**Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/JosephKlein.jpg' class='media-object' markdown = '1'>
@@ -112,7 +112,7 @@ Joe is a Master’s candidate at the School of Information focusing on data anal
 </div>
 
 ### Bhawana Mishra 
-**Author.** 
+**Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/BhawanaMishra.jpg' class='media-object' markdown = '1'>
@@ -123,7 +123,7 @@ Bhawana is a Master’s candidate at the University of Michigan School of Inform
 </div>
 
 ### Kristen Sheppard 
-**Author.** 
+**Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
 <img src='/images/people/KristenSheppard.jpg' class='media-object' markdown = '1'>
