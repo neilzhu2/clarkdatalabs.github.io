@@ -14,7 +14,7 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 
 ### Justin Joque
 #### Project Coordinator and Blog Editor
-<div class='pull-right' markdown="1">
+<div class='pull-left' border-right="10px" markdown="1">
 ![](/images/people/JustinJoque.jpg)
 </div>As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
 
@@ -27,20 +27,22 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Maria-Carolina Simao
 **Author.**
-
+<div class='pull-left' border-right="10px" markdown="1">
 ![](/images/people/CarolinaSimao.jpg)
-Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
+</div>Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
 
 ### Daniel Tanner
 **Author.**
-
+<div class='pull-left' border-right="10px" markdown="1">
 ![](/images/people/DanTanner.jpg)
+</div>
 Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
 
 ### Zoë Wilkinson Saldaña
 **Author.**
-
+<div class='pull-left' border-right="10px" markdown="1">
 ![](/images/people/ZoeWilkinsonSaldana.jpg)
+</div>
 Zoë is a Master's student in the School of Information specializing in data analysis and community informatics. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë wants to help organizations better understand their data, utilize data-driven insights to overcome challenges, and share compelling digital narratives with community members.
 
 ## 2015-2016 Interns:
