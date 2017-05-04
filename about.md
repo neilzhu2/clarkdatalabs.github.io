@@ -68,31 +68,67 @@ Zoë is a Master's student in the School of Information specializing in data ana
 ## 2015-2016 Interns:
 
 ### Luciana Aenasoaie
-
-![](/images/people/LucianaAenasoaie.jpg)
-**Blog Editor.** Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+**Blog Editor.** 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/LucianaAenasoaie.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
+</div>
+</div>
 
 ### Daina Andries 
-
-![](/images/people/DainaAndries.jpg)
-**Author.** Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
+**Author.**
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/DainaAndries.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
+</div>
+</div>
 
 ### Noureen Dharani
-
-![](/images/people/NoureenDharani.png)
-**Author.** Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+**Author.** 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/NoureenDharani.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
+</div>
+</div>
 
 ### Joseph Klein 
-
-![](/images/people/JosephKlein.jpg)
-**Author.** Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
+**Author.** 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/JosephKlein.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
+</div>
+</div>
 
 ### Bhawana Mishra 
-
-![](/images/people/BhawanaMishra.jpg)
-**Author.** Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
+**Author.** 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/BhawanaMishra.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
+</div>
+</div>
 
 ### Kristen Sheppard 
-
-![](/images/people/KristenSheppard.jpg)
-**Author.** Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
+**Author.** 
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/KristenSheppard.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
+</div>
+</div>
