@@ -93,7 +93,7 @@ Daina is a Master’s candidate at the University of Michigan School of Informat
 **Author.** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/NoureenDharani.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/NoureenDharani.png' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
