@@ -61,7 +61,7 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 <img src='/images/people/ZoeWilkinsonSaldana.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Zoë is a Master's student in the School of Information specializing in data analysis and community informatics. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë wants to help organizations better understand their data, utilize data-driven insights to overcome challenges, and share compelling digital narratives with community members.
+Zoë is a Master's student in the School of Information specializing in information analysis and retrieval. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & private libraries. Zoë enjoys data storytelling, especially crafting narratives using complex and messy data.
 </div>
 </div>
 
