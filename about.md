@@ -41,7 +41,7 @@ Junhui received his Master's degree from the School of Information.</div>
 ### Maria-Carolina Simao
 **Author**
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/CarolinaSimao.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -52,7 +52,7 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 ### Daniel Tanner
 **Author**
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/DanTanner.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -63,7 +63,7 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 ### Zoë Wilkinson Saldaña
 **Author**
 <div class='media' markdown='1'>
-<div class='pull-left' markdown="1">
+<div class='pull-right' markdown="1">
 <img src='/images/people/ZoeWilkinsonSaldana.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -76,7 +76,7 @@ Zoë is a Master's student in the School of Information specializing in informat
 ### Luciana Aenasoaie
 **Blog Editor** 
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/LucianaAenasoaie.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -87,7 +87,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 ### Daina Andries 
 **Author**
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/DainaAndries.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -98,7 +98,7 @@ Daina is a Master’s candidate at the University of Michigan School of Informat
 ### Noureen Dharani
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/NoureenDharani.png' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -109,7 +109,7 @@ Noureen is a Master’s candidate at the University of Michigan School of Inform
 ### Joseph Klein 
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/JosephKlein.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -120,7 +120,7 @@ Joe is a Master’s candidate at the School of Information focusing on data anal
 ### Bhawana Mishra 
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-right' markdown='1'>
+<div class='pull-left' markdown='1'>
 <img src='/images/people/BhawanaMishra.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
@@ -131,7 +131,7 @@ Bhawana is a Master’s candidate at the University of Michigan School of Inform
 ### Kristen Sheppard 
 **Author** 
 <div class='media' markdown='1'>
-<div class='pull-left' markdown='1'>
+<div class='pull-right' markdown='1'>
 <img src='/images/people/KristenSheppard.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
