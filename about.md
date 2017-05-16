@@ -35,7 +35,7 @@ He received his undergraduate degree from the University of Michigan in History.
 <img src='/images/people/JunhuiLi.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Junhui received his Master's degree from the School of Information with a focus on Information Analysist and Retrieval & Human Computer Interaction. Proud to be a wolverine!
+Junhui received his Master's degree from the School of Information with a focus on Information Analysist and Retrieval & Human Computer Interaction. Proud to be a Wolverine!
 </div>
 </div>
 
