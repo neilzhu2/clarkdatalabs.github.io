@@ -30,7 +30,13 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ### Junhui Li
 **Author**
-
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/JunhuiLi.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Junhui received his Master's degree from the School of Information.</div>
+</div>
 
 ### Maria-Carolina Simao
 **Author**
