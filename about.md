@@ -92,7 +92,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 <img src='/images/people/DainaAndries.jpg' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Daina is a Master’s candidate at the University of Michigan School of Information, specializing in Archives and Records Management. She received her B.A. from Thomas Aquinas College in California and has a prior Master’s degree in French literature from the University of Delaware. She has worked at the Clark Library and the Bentley Historical Library since coming to the University of Michigan.
+Daina completed an MSI at the University of Michigan School of Information. She worked at the Clark Digital Projects Studio from the spring of 2015 to the end of the summer of 2016. She currently works as a data scientist at Red Oak Strategic, a full-stack data science and analytics consulting firm based in Washington, D.C.
 </div>
 </div>
 
